@@ -1,0 +1,8 @@
+earthengine-api
+geemap
+pandas
+plotly
+requests
+python-dotenv
+jupyterlab
+streamlit
