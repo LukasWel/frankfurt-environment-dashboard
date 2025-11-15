@@ -1,0 +1,23 @@
+# API keys und Umgebungen
+.env
+*.key
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Virtuelle Umgebungen
+venv/
+.env/
+.fra-env/
+.fra_env/
+.fraenv/
+*.egg-info/
+
+# IDE-Dateien
+.vscode/
+.idea/
+
+# Sonstiges
+.DS_Store
