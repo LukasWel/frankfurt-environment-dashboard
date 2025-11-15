@@ -7,7 +7,10 @@ It combines open satellite data (Sentinel-5P, MODIS, Sentinel-2) with ground-bas
 - Urban heat and surface temperature
 - Vegetation and greenness patterns
 
+---
+
 The project is currently in early development and will be expanded step by step.
+
 ---
 
 ## Run locally
